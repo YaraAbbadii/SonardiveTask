@@ -5,7 +5,6 @@ public class Country {
     private String isoCode;
 
     public Country() {
-        // Constructor فارغ
     }
 
     public Country(int id, String isoCode) {
